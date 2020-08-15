@@ -1,10 +1,11 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+remote-themes:    fongandrew/hydeout
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Minyoung Kim
+tagline:          'What is taglineee'
+description:      'New blog'
 url:              https://minyoung-mia-Kim.github.io
 baseurl:          https://minyoung-mia-Kim.github.io
                   # the optional subpath of your site, e.g. "/blog"
@@ -14,8 +15,8 @@ baseurl:          https://minyoung-mia-Kim.github.io
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Minyoung Kim'
+  url:            https://minyoung-mia-Kim.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'
