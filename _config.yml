@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 remote-theme:     fongandrew/hydeout
 # Setup
-title:            Minyoung Kim
+title:            'Minyoung Kim'
 tagline:          'What is taglineee'
 description:      'New blog'
-url:              https://minyoung-mia-Kim.github.io
-baseurl:          https://minyoung-mia-Kim.github.io
+url:              "https://minyoung-mia-Kim.github.io"
+baseurl:          ""
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -16,7 +16,7 @@ baseurl:          https://minyoung-mia-Kim.github.io
 
 author:
   name:           'Minyoung Kim'
-  url:            https://minyoung-mia-Kim.github.io
+  url:            'https://minyoung-mia-Kim.github.io'
 
 paginate:         5
 # paginate_path:    '/page:num'
