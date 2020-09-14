@@ -1,6 +1,6 @@
 ---
 title: "Minyoung Kim's CV"
-permalink: /CV/
+permalink: /
 layout: single
 ---
 Minyoung Kim
