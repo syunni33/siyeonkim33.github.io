@@ -117,7 +117,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-      - label: "CV"
+    - label: "CV"
       icon: "fab fa-fw fa fa-download"
       url: "assets/doc/CV.pdf"
 
