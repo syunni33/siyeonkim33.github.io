@@ -16,12 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "MINYOUNG KIM"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Minyoung Kim"
+name                     : "MINYOUNG KIM"
 description              : "Minyoung Kim's Page."
-url                      : "https://minyoung-mia-kim.github.io/"
+# url                      : "https://minyoung-mia-kim.github.io/"
+url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minyoung Kim"
+  name             : "MINYOUNG KIM"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "👩‍💻"
-  location         : "Seoul, S. Korea"
-  email            : "minyoung.mia.kim@gmail.com"
+  bio              : "👩‍💻 Ph.D. student 💻"
+  location         : "Fairfax, VA, USA"
+  email            : "mkim229@gmu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

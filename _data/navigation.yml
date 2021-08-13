@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: /Home/
-  - title: "Publication"
-    url: /Publication/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /
+  - title: "Publications"
+    url: /Publications/
+  - title: "Misc"
+    url: /Miscellaneous/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
