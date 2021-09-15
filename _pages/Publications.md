@@ -104,7 +104,7 @@ a {
     (accepted)
   </section>
   <ul class ="post-tags">
-    <li><a href="#">Project page(Under construction)</a></li>
+    <li><a href="http://graphics.ewha.ac.kr/localAE/">Project page</a></li>
     <li><a href="https://arxiv.org/abs/2107.08737">ArXiv</a></li>
   </ul>
 </article>
