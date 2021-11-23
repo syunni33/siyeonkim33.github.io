@@ -2,10 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Publications"
-    url: /Publications/
+  # - title: "Publications"
+  #   url: /Publications/
   - title: "Misc"
     url: /Miscellaneous/
+  - title: "Contact"
+    url: /Contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
