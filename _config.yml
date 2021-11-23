@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MINYOUNG KIM"
+title                    : "SIYEON KIM"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "MINYOUNG KIM"
-description              : "Minyoung Kim's Page."
-# url                      : "https://minyoung-mia-kim.github.io/"
+name                     : "SIYEON KIM"
+description              : "Siyeon Kim's Page."
+# url                      : "https://siyeonkim33.github.io/"
 url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "MINYOUNG KIM"
+  name             : "SIYEON KIM"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "👩‍💻 Ph.D. student 💻"
+  bio              : "👩‍💻 Researcher 💻"
   location         : "Fairfax, VA, USA"
-  email            : "mkim229@gmu.edu"
+  email            : "syunni33@ewhain.net"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -114,13 +114,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/minyoung-mia-Kim"
+      url: "https://github.com/siyeonkim33"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "CV"
       icon: "fab fa-fw fa fa-download"
-      url: "https://minyoung-mia-kim.github.io/assets/doc/CV.pdf"
+      url: "https://siyeonkim33.github.io/assets/doc/2021_CV.pdf"
 
 # Site Footer
 footer:
