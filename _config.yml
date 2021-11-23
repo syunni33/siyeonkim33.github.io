@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "SIYEON KIM"
-  avatar           : "/assets/images/bio-image.jpeg"
+  avatar           : "/assets/images/bio_image.jpeg"
   bio              : "👩‍💻 Researcher 💻"
   location         : "Songpagu, Seoul, Korea"
   email            : "syunni33@ewhain.net"
